@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af96f0cf2ecf2aa6f0603979b7dd08c8032b40c3">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\instant-run_31eaf20d69ed30c5add75d74d721e46d162910f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_d70161ed29d6a69e02bc70d99c3d5954212c3f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_37709d95369fff4411e618f40bbb212c65929199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_fe013f0119b4b04f394f70cd5a79afb1a95e0724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_d7334cb9741b316f2fb8db0b16e1aed2fab6f3d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_77bf048f42ff47e12039734e18c299ad84e25225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_fb6266ba209c9fb8f926d066da0bfacbb3a63dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_bc662ebd01e06e37ab4280cbe4787f15bcc4dc50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_d2e1f5c107d8a56840245c58b19b9f55d7679efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19880e10569cf53b0f3fb9c1330b25c68b89892e">
+        <dex dex="C:\Users\Thal Marc\Documents\ud845-Pets-starting-point\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_85cde98ab739905f6b026c6254e9aeb03c9fcee1.jar" />
+    </item>
+
+</items>
